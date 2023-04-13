@@ -1,5 +1,4 @@
-# Atmospheric-Party
- COP4520 | Assignment 3
+# COP4520 Assignment 3
 
 
 # Problem 1
